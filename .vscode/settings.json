@@ -1,0 +1,9 @@
+{
+    "python.formatting.provider": "black",
+    "python.analysis.extraPaths": [
+        // "venv\\Lib\\site-packages",
+        "src\\python_patterns",
+        "src\\python_patterns\\factory",
+    ],
+    "python.pythonPath": "d:\\Dropbox\\Programming\\python-patterns\\venv\\Scripts\\python.exe"
+}
